@@ -24,7 +24,7 @@ THEN I am prompted to select an employee to update and their new role and this i
 
 
 Git Hub Repo:
-https://github.com/axv50/team-profile-generator10
+https://github.com/axv50/emplyee-tracker12
 
 Working Site:
-https://axv50.github.io/team-profile-generator10/
+https://axv50.github.io/emplyee-tracker12/
